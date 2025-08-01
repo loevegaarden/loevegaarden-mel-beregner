@@ -18,7 +18,7 @@ Plugin’et inkluderer:
 1. Kopiér eller clone plugin-mappen til din WordPress-plugins-mappe:
    ```bash
    git clone https://github.com/loevegaarden/loevegaarden-mel-beregner.git
-
+   ```
 
 ## Brug
 ### Generel converter
@@ -37,6 +37,54 @@ Viser kun “Fra”-felt, unit-dropdown og “Til”-unit for den valgte ingredi
 
 Default: from="dl", to="g", value="1"
 
+## Ingredienser
+### Mel
+Boghvedemel
+Fuldkornsrismel
+Havremel
+Hirsemel
+Kikærtemel
+Majsmel
+Mandelmel
+Quinoamel
+Rismel
+Sorghummel
+Teffmel
+
+
+### Flager
+Boghvedeflager
+Fintvalsede havregryn
+Grovvalsede havregryn
+Hirseflager
+Quinoaflager
+
+
+### Stivelse
+Kartoffelmel
+Majsstivelse
+Tapiokastivelse
+
+
+### Gryn, Kerner og Frø
+Boghvedekerner
+Chiafrø
+Græskarkerner
+Hel hirse
+Hørfrø
+Knækket boghvede
+Majsgryn/polenta
+Quinoafrø
+Sesamfrø
+Solsikkekerner
+
+
+### Andet
+FiberHUSK
+Guargum
+Loppefrøskaller/psyllium
+Xanthangum
+
 
 ## Udvidelse
 Vil du tilføje flere ingredienser?
@@ -52,3 +100,6 @@ I fremtiden planlægger vi at give et admin-interface, så du kan redigere liste
 Plugin-side: https://github.com/dit-brugernavn/loevegaarden-beregner
 
 Løvegårdens hjemmeside: https://www.loevegaarden.dk
+
+
+
