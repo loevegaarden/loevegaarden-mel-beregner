@@ -26,10 +26,12 @@ Brug shortcoden uden parametre:
    ```bash
    [loevegaarden_beregner]
 
+
 ### Specifik converter
 Angiv name, from og/eller to for at lave en one-liner:
    ```bash
    [loevegaarden_beregner name="Boghvedemel" from="l" to="g"]
+
 
 Viser kun “Fra”-felt, unit-dropdown og “Til”-unit for den valgte ingrediens
 
