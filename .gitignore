@@ -1,0 +1,11 @@
+# PHPStorm / VSCode
+.idea/
+.vscode/
+
+# Node / vendor
+node_modules/
+vendor/
+
+# OS filer
+.DS_Store
+Thumbs.db
