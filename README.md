@@ -39,51 +39,23 @@ Default: from="dl", to="g", value="1"
 
 ## Ingredienser
 ### Mel
-Boghvedemel
-Fuldkornsrismel
-Havremel
-Hirsemel
-Kikærtemel
-Majsmel
-Mandelmel
-Quinoamel
-Rismel
-Sorghummel
-Teffmel
+Boghvedemel, Fuldkornsrismel, Havremel, Hirsemel, Kikærtemel, Majsmel, Mandelmel, Quinoamel, Rismel, Sorghummel, Teffmel
 
 
 ### Flager
-Boghvedeflager
-Fintvalsede havregryn
-Grovvalsede havregryn
-Hirseflager
-Quinoaflager
+Boghvedeflager, Fintvalsede havregryn, Grovvalsede havregryn, Hirseflager ogQuinoaflager
 
 
 ### Stivelse
-Kartoffelmel
-Majsstivelse
-Tapiokastivelse
+Kartoffelmel, Majsstivelse, Tapiokastivelse
 
 
 ### Gryn, Kerner og Frø
-Boghvedekerner
-Chiafrø
-Græskarkerner
-Hel hirse
-Hørfrø
-Knækket boghvede
-Majsgryn/polenta
-Quinoafrø
-Sesamfrø
-Solsikkekerner
+Boghvedekerner, Chiafrø, Græskarkerner, Hel hirse, Hørfrø, Knækket boghvede, Majsgryn/polenta, Quinoafrø, Sesamfrø ogSolsikkekerner
 
 
 ### Andet
-FiberHUSK
-Guargum
-Loppefrøskaller/psyllium
-Xanthangum
+FiberHUSK, Guargum, Loppefrøskaller/psyllium, Xanthangum
 
 
 ## Udvidelse
@@ -97,7 +69,7 @@ I fremtiden planlægger vi at give et admin-interface, så du kan redigere liste
 
 
 ## Links
-Plugin-side: https://github.com/dit-brugernavn/loevegaarden-beregner
+Plugin-side: https://github.com/loevegaarden/loevegaarden-mel-beregner
 
 Løvegårdens hjemmeside: https://www.loevegaarden.dk
 
