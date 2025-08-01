@@ -23,12 +23,13 @@ Plugin’et inkluderer:
 ## Brug
 ### Generel converter
 Brug shortcoden uden parametre:
-[loevegaarden_beregner]
+   ```bash
+   [loevegaarden_beregner]
 
 ### Specifik converter
 Angiv name, from og/eller to for at lave en one-liner:
-
-[loevegaarden_beregner name="Boghvedemel" from="l" to="g"]
+   ```bash
+   [loevegaarden_beregner name="Boghvedemel" from="l" to="g"]
 
 Viser kun “Fra”-felt, unit-dropdown og “Til”-unit for den valgte ingrediens
 
