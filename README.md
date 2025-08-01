@@ -39,23 +39,23 @@ Default: from="dl", to="g", value="1"
 
 ## Ingredienser
 ### Mel
-Boghvedemel, Fuldkornsrismel, Havremel, Hirsemel, Kikærtemel, Majsmel, Mandelmel, Quinoamel, Rismel, Sorghummel, Teffmel
+Boghvedemel, Fuldkornsrismel, Havremel, Hirsemel, Kikærtemel, Majsmel, Mandelmel, Quinoamel, Rismel, Sorghummel og Teffmel
 
 
 ### Flager
-Boghvedeflager, Fintvalsede havregryn, Grovvalsede havregryn, Hirseflager ogQuinoaflager
+Boghvedeflager, Fintvalsede havregryn, Grovvalsede havregryn, Hirseflager og Quinoaflager
 
 
 ### Stivelse
-Kartoffelmel, Majsstivelse, Tapiokastivelse
+Kartoffelmel, Majsstivelse og Tapiokastivelse
 
 
 ### Gryn, Kerner og Frø
-Boghvedekerner, Chiafrø, Græskarkerner, Hel hirse, Hørfrø, Knækket boghvede, Majsgryn/polenta, Quinoafrø, Sesamfrø ogSolsikkekerner
+Boghvedekerner, Chiafrø, Græskarkerner, Hel hirse, Hørfrø, Knækket boghvede, Majsgryn/polenta, Quinoafrø, Sesamfrø og Solsikkekerner
 
 
 ### Andet
-FiberHUSK, Guargum, Loppefrøskaller/psyllium, Xanthangum
+FiberHUSK, Guargum, Loppefrøskaller/psyllium og Xanthangum
 
 
 ## Udvidelse
